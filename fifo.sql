@@ -1,0 +1,1 @@
+SELECT * FROM 'empl' WHERE id = 1;
